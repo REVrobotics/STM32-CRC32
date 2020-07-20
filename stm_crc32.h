@@ -1,5 +1,5 @@
-#ifndef __REV_CRC_h__
-#define __REV_CRC_h__
+#ifndef __STM_CRC32_h__
+#define __STM_CRC32_h__
 
 #include <stdint.h>
 #include <stddef.h>
